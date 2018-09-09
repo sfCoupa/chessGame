@@ -14,6 +14,6 @@
 
     $('.reset').on('click', function () {
         ChessGame.startNewGame();
-    });    
+    });
 
 })(jQuery);
